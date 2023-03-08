@@ -1,1 +1,3 @@
-LAX
+#!/bin/bash
+pwd
+
